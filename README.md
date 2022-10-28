@@ -18,7 +18,7 @@ The bamboo shoot was divided into three parts tip, middle, and bottom. Each part
 
 Unsupervised Clustering by K-means in Machine Learning
 
-K-means clustering is one of the simplest and popular unsupervised machine learning algorithms. Machine learning algorithms were applied to process the learning data. The K-means algorithm in data mining starts randomly selected centroids, every cluster, and then performs iterative calculations to optimize the positions of the centroids. Scikit-learn library was used to process data. K-means clustering for classification has been applied successfully using scikit module in Python.
+K-means clustering is one of the simplest and popular unsupervised machine learning algorithms. Machine learning algorithms were applied to process the learning data. The K-means algorithm in data mining starts randomly selected centroids, every cluster, and then performs iterative calculations to optimize the positions of the centroids. Feature extraction was performed using principle component analysis. Scikit-learn library was used to process data. K-means clustering for classification has been applied successfully using scikit module in Python.
 
 
 
