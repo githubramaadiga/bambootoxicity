@@ -2,6 +2,7 @@
 Bamboo toxicity prediction using k-means clustering
 
 Summary
+
 Machine learning methods to predict Bamboo cyanogen toxicity is of great importance. Various methods were tested by generating data using bamboo shoots collected from fields of dakshina kannada district, Karnataka. The various pre-processing methods have been tested like soaking in plain water, soaking in salt water of varying salt concentration, boiling and enzymatic degradation. The code describes the machine learning approach to predict toxicity from real data using three regions of the bamboo shoot (eg. tip, base & centre) under various pre-processing conditions eg., varying salt concentrations and temperature at three different time points in five different species. The clustering algorithm was used to classify the multi-dimensional data and can be used to predict the optimal pre-treatment method which can extract maximal cyanogen toxicity.
 
 
