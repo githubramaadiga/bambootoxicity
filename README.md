@@ -8,6 +8,7 @@ Bamboo shoots were utilized by several ethnic tribes in Northeast India to reduc
 Fresh shoots have a crisp, crunchy texture and a sweet flavour that gives them a distinct flavour. Shoots can also be used as a flavour enhancer since the tissue absorbs the flavour. 
 
 Bamboo Toxicity
+
 Despite the benefits of Bamboo, it is not accepted readily by the population. The important components which cause toxicity to human are taxiphyllin or cyanogenic glycosides. Removal of the cyanogen is very important before consumption. The study addresses the methods to extract the cyanogen in the bamboo shoot. The method used in this study are Picrate paper method – with variations like 1%, 5%, 10% NaCl, and boiling water.
 Processing and storage of bamboo shoot:
 Bamboo shoots were collected from different places and were stored at -80℃  as a pre-processing step.
